@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'pry'
+gem 'pg'
+gem 'activerecord'
+# the gem file is to get everyone on the same page
+# no type bundle install
